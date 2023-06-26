@@ -6,7 +6,7 @@ ChatGPT is an AI-powered chatbot that has transformed the recruitment process. I
 What is ChatGPT?
 ----------------
 
-ChatGPT is based on the GPT-3 language model, which was developed by OpenAI. The GPT-3 model is capable of generating human-like responses to text inputs, making it ideal for conversational applications such as ChatGPT.
+ChatGPT is based on the GPT-3.5 language model, which was developed by OpenAI. The GPT-3.5 model is capable of generating human-like responses to text inputs, making it ideal for conversational applications such as ChatGPT.
 
 ChatGPT engages in natural language conversations with humans, providing a more engaging and personalized experience for candidates. It can be customized to fit the specific needs of a company or industry, making it a versatile tool for recruiters.
 

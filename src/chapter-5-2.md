@@ -6,7 +6,7 @@ ChatGPT is a powerful artificial intelligence (AI) tool that has revolutionized 
 What is ChatGPT?
 ----------------
 
-ChatGPT is an AI-powered chatbot that can engage in natural language conversations with humans. It is based on the GPT-3 language model, which was developed by OpenAI. The GPT-3 model is capable of generating human-like responses to text inputs, making it ideal for conversational applications such as ChatGPT.
+ChatGPT is an AI-powered chatbot that can engage in natural language conversations with humans. It is based on the GPT-3.5 language model, which was developed by OpenAI. The GPT-3.5 model is capable of generating human-like responses to text inputs, making it ideal for conversational applications such as ChatGPT.
 
 Features of ChatGPT
 -------------------
