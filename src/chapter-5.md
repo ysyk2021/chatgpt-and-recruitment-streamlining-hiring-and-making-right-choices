@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore ChatGPT, its features and capabilities, and how it can be used for streamlining hiring processes and making right choices.
 

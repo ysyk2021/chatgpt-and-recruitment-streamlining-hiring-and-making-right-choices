@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Recruitment
-=====================================================
 
 In this chapter, we will explore the role of AI and chatbots in recruitment, how they can improve recruitment processes, and help make the right hiring decisions.
 

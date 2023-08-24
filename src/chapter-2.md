@@ -1,5 +1,3 @@
-Chapter 1: Basics of Recruitment
-================================
 
 In this chapter, we will explore the basics of recruitment, including its definition, different types of recruiting processes, and the importance of finding the right candidate for the job.
 

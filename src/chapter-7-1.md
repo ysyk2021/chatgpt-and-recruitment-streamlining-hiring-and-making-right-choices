@@ -1,5 +1,3 @@
-Potential Advancements in Recruitment with ChatGPT
-=================================================================================================
 
 In this chapter, we will explore the potential advancements in recruitment with ChatGPT (Generative Pre-trained Transformer). As AI technology continues to evolve, there are several exciting possibilities for how ChatGPT can further streamline recruitment processes and improve hiring outcomes.
 

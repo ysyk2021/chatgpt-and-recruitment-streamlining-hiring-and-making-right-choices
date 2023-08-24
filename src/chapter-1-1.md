@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore how ChatGPT (Generative Pre-trained Transformer) can help streamline recruitment processes and improve hiring outcomes. We will cover a range of topics, from the basics of recruitment to the benefits of using ChatGPT in the hiring process.
 

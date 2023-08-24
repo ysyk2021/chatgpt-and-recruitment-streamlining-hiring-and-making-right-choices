@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Recruitment
-====================================
 
 In this chapter, we will explore the challenges faced by recruiters in the hiring process. We will discuss the factors that affect recruitment, common challenges faced by recruiters, and the impact of these challenges on hiring processes and outcomes.
 

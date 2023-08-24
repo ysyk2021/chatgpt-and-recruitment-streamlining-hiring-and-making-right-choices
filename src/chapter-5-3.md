@@ -1,5 +1,3 @@
-How ChatGPT can be used for Streamlining Hiring Processes and Making Right Choices
-====================================================================================================================
 
 In this chapter, we will explore how ChatGPT (Generative Pre-trained Transformer) can be used to streamline hiring processes and make right choices. We will discuss the various ways in which ChatGPT can assist with recruitment tasks such as resume screening, candidate engagement, interviewing, and making informed hiring decisions.
 

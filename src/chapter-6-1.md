@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Recruitment Processes
-===================================================================================================
 
 In this chapter, we will discuss the steps involved in implementing ChatGPT (Generative Pre-trained Transformer) in recruitment processes. By following these steps, organizations can effectively integrate ChatGPT into their existing recruitment workflows and improve hiring outcomes.
 

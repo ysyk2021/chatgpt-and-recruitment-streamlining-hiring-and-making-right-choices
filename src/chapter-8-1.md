@@ -1,5 +1,3 @@
-Summary of key points
-=================================
 
 In this book, we explored the role of ChatGPT in streamlining the recruitment process and making better hiring decisions. Here are some of the key points that we covered in this book:
 

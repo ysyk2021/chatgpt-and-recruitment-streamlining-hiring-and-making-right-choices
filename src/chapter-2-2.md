@@ -1,5 +1,3 @@
-Different Types of Recruiting Processes
-=========================================================================
 
 In this chapter, we will explore the different types of recruiting processes that organizations can use to attract and hire qualified candidates.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 There are several types of recruiting processes that organizations can use to attract and hire qualified candidates, including internal recruitment, external recruitment, online recruitment, campus recruitment, and employee referral programs. By understanding the different types of recruiting processes available, organizations can develop effective recruitment strategies that meet their specific hiring needs and goals.
-
 

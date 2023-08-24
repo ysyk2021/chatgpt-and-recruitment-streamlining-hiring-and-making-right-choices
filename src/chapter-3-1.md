@@ -1,5 +1,3 @@
-Factors Affecting Recruitment
-===================================================================
 
 In this chapter, we will explore the factors that affect recruitment and contribute to the challenges faced by organizations in hiring.
 

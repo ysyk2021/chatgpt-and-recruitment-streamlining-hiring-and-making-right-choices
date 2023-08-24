@@ -1,5 +1,3 @@
-Definition of Recruitment
-===========================================================
 
 In this chapter, we will explore the basics of recruitment, including its definition and the different stages involved in the process.
 

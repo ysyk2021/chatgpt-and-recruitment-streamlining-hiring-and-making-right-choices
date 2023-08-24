@@ -1,5 +1,3 @@
-Conclusion and future outlook
-============================================================================
 
 In this chapter, we will discuss the future of recruitment with ChatGPT and provide a conclusion on the impact of this technology on the recruitment industry.
 

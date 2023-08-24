@@ -1,5 +1,3 @@
-Common Challenges Faced by Recruiters
-===========================================================================
 
 In this chapter, we will explore some of the common challenges faced by recruiters in the hiring process.
 

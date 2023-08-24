@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Recruitment
-==============================================
 
 In this chapter, we will explore the steps involved in implementing ChatGPT (Generative Pre-trained Transformer) in recruitment processes. We will also discuss best practices for using ChatGPT to make right choices and provide case studies of companies that have successfully implemented ChatGPT in their recruitment processes.
 

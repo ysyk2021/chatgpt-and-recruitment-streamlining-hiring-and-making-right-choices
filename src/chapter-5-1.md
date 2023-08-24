@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an AI-powered chatbot that has transformed the recruitment process. In this chapter, we will explore what ChatGPT is and how it works.
 

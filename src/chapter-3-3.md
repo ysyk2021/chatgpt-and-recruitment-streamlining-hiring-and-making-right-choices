@@ -1,5 +1,3 @@
-Impact of these challenges on hiring processes and outcomes
-=================================================================================================
 
 In this chapter, we will explore the challenges faced by organizations in recruitment and their impact on the hiring process and outcomes.
 

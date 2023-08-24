@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-======================================================================================
 
 In this chapter, we will introduce the role of AI and chatbots in recruitment and how they can be used to streamline hiring processes and make the right hiring decisions.
 
