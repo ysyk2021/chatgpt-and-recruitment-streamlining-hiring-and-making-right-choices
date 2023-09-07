@@ -12,3 +12,7 @@ Through case studies and examples, we showcase how organizations are leveraging 
 The objective of this book is to provide readers with an understanding of how ChatGPT is transforming recruitment strategies by streamlining the hiring process and making the right choices. By the end of this book, readers will have a comprehensive understanding of how ChatGPT can enhance their recruitment capabilities and gain valuable insights into candidate behavior, reducing the time and cost of hiring, and gaining a competitive advantage in the market.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
