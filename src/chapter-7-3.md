@@ -1,5 +1,4 @@
-Chapter 12: Conclusion and Future Outlook
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we will summarize the key insights from the book "ChatGPT and Recruitment: Streamlining Hiring and Making Right Choices" and provide a future outlook for the field of recruitment in light of ChatGPT's capabilities. We have explored the potential advancements, features, emerging trends, and challenges when incorporating ChatGPT into hiring processes. Now, let's conclude our discussion and look ahead to the future.
 

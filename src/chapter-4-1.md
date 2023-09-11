@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to the concepts of Artificial Intelligence (AI) and chatbots in the context of streamlining hiring and making right choices in recruitment. AI and chatbots have revolutionized the way organizations approach the hiring process, enabling more efficient and effective decision-making. Let's explore these concepts:
 

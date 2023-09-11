@@ -1,5 +1,4 @@
-Chapter 3: Factors Affecting Recruitment
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that influence the recruitment process and how ChatGPT can contribute to streamlining hiring and making the right choices. Understanding these factors is crucial for recruiters to optimize their recruitment strategies and leverage ChatGPT effectively. Let's delve into the key factors affecting recruitment.
 

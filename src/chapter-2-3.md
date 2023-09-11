@@ -1,5 +1,4 @@
-Chapter 6: Importance of Finding the Right Candidate for the Job
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of finding the right candidate for a job and how it contributes to organizational success. Hiring the right candidate is crucial for building high-performing teams, achieving business objectives, and fostering a positive work environment. Let's explore the significance of this process:
 

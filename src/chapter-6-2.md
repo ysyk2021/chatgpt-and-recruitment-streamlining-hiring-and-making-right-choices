@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Using ChatGPT in Making Right Choices
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for utilizing ChatGPT to streamline the hiring process and make informed decisions. ChatGPT, with its advanced language processing capabilities, can assist in evaluating candidates, conducting interviews, and ensuring the right fit for the organization. Let's explore these best practices:
 

@@ -1,5 +1,4 @@
-Chapter 9: Impact of these Challenges on Hiring Processes and Outcomes
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the impact that the challenges associated with integrating ChatGPT into recruitment can have on hiring processes and outcomes. While ChatGPT offers numerous advantages, addressing these challenges is crucial to ensure fairness, accuracy, and effectiveness in the hiring process. Let's explore how these challenges can impact recruitment.
 

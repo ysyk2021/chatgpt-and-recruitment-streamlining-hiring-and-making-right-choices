@@ -1,5 +1,4 @@
-Chapter 4: Different Types of Recruiting Processes
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of recruiting processes commonly used by organizations. Each type of process has its own characteristics, advantages, and limitations. By understanding these variations, recruiters can choose the most suitable approach based on their specific hiring needs. Let's delve into the various types of recruiting processes:
 

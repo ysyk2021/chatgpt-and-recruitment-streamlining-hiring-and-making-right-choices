@@ -1,5 +1,4 @@
-Chapter 7: Leveraging ChatGPT for Streamlining Hiring Processes and Making Right Choices
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT can be utilized to streamline hiring processes and make informed choices when it comes to candidate selection. ChatGPT, as an advanced language model, can assist recruiters in various stages of the recruitment process, from resume screening to conducting interviews. Let's delve into the ways in which ChatGPT can be leveraged effectively:
 

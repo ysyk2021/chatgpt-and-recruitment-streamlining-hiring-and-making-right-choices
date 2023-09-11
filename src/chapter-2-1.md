@@ -1,5 +1,4 @@
-Chapter 5: Definition of Recruitment
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of recruitment in the context of hiring and building successful teams. Recruitment is a crucial process for organizations to identify, attract, and select qualified individuals who have the potential to contribute to the achievement of organizational goals. Let's explore the various aspects of recruitment:
 

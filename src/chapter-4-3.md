@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Using AI and Chatbots for Recruitment
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits of using AI and chatbots in the recruitment process. The integration of these technologies has revolutionized traditional hiring approaches, providing organizations with enhanced efficiency, improved decision-making, and a better candidate experience. Let's delve into the benefits:
 

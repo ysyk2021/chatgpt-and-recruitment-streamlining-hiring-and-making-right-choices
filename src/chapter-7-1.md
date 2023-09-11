@@ -1,5 +1,4 @@
-Chapter 8: Potential Advancements in Recruitment with ChatGPT
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that ChatGPT can bring to the field of recruitment. As technology evolves, there are several exciting possibilities for using ChatGPT to further streamline hiring processes and make even better choices when it comes to selecting the right candidates. Let's dive into some potential advancements:
 

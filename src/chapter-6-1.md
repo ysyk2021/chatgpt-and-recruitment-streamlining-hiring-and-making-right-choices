@@ -1,5 +1,4 @@
-Chapter 2: Steps to Implement ChatGPT in Recruitment Processes
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT in recruitment processes. By following these steps, organizations can effectively integrate ChatGPT to streamline their hiring procedures and make informed choices. Let's explore the implementation process:
 

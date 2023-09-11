@@ -1,5 +1,4 @@
-Chapter 6: Common Challenges Faced by Recruiters
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges faced by recruiters when incorporating ChatGPT into the recruitment process. While ChatGPT offers significant opportunities for streamlining hiring and making right choices, it also presents various hurdles that recruiters must navigate. Let's delve into these challenges.
 

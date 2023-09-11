@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, the advanced language model that can greatly contribute to streamlining hiring processes and making right choices in recruitment. Understanding the key aspects of ChatGPT's functionality is essential for leveraging its potential effectively. Let's delve into the features and capabilities of ChatGPT:
 

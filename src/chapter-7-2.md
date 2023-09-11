@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends and Challenges in Recruitment and ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the emerging trends and challenges that arise in the intersection of recruitment and ChatGPT. As technology continues to evolve, new trends and potential obstacles can impact the application of ChatGPT in streamlining hiring processes and making right choices. Let's explore these emerging trends and challenges:
 

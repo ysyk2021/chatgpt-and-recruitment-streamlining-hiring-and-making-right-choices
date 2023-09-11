@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will introduce ChatGPT, the advanced AI language model that plays a central role in streamlining hiring processes and making right choices in recruitment. We will explore what ChatGPT is, how it works, and its significance in the field of recruitment.
 

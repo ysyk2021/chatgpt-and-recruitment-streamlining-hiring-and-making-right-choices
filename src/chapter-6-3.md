@@ -1,5 +1,4 @@
-Chapter 4: Case Studies of Companies that Have Successfully Implemented ChatGPT in Their Recruitment Processes
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of companies that have successfully implemented ChatGPT in their recruitment processes. These companies have leveraged the power of AI and natural language processing to streamline their hiring procedures, improve decision-making, and enhance candidate experiences. Let's delve into these case studies:
 
